@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1, Channel 1
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1, Channel 2
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1, Channel 3
+https://list.iptvcat.com/my_list/s/35683a996d90df434a4e82db529c7eec.m3u8
+#EXTINF:-1, Channel 4
+https://list.iptvcat.com/my_list/s/e6086b972b7189becd3332b36fbd647c.m3u8
+#EXTINF:-1, Channel 5
+https://list.iptvcat.com/my_list/s/dd1a4d5c6931bb4b64de486a5d10a5b8.m3u8
+#EXTINF:-1, Channel 6
+https://list.iptvcat.com/my_list/s/2892e15cdd2ee7a706864593233bf5fb.m3u8
+#EXTINF:-1, Channel 7
+https://list.iptvcat.com/my_list/s/bab349944a5d7d4ac07b4f660d1010eb.m3u8
+#EXTINF:-1, Channel 8
+https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
+#EXTINF:-1, Channel 9
+https://list.iptvcat.com/my_list/s/275243ee8401537c4c7556f2ee9c901a.m3u8
+#EXTINF:-1, Channel 10
+https://list.iptvcat.com/my_list/s/cdd242dbcd11b36389e4e05747a33b59.m3u8
+#EXTINF:-1, Channel 11
+https://list.iptvcat.com/my_list/s/b6b881c0b0c62dd035fb02c7e4e55a17.m3u8
+#EXTINF:-1, Channel 12
+https://list.iptvcat.com/my_list/s/d2007c9e920c46df2af18553703c97f2.m3u8
+#EXTINF:-1, Channel 13
+https://list.iptvcat.com/my_list/s/27659445b4beaa14f7294bef60d2fca9.m3u8
